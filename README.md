@@ -1,3 +1,3 @@
-hello 
-This is my new repo.
-counter App to count the number.
+hello <br>
+This is my new repo.<br>
+counter App to count the number.<br>
